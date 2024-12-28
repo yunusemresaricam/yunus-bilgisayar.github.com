@@ -1,0 +1,12 @@
+body { font-family: Arial, sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f4f4f4; }
+ .search-container { position: relative; width: 300px; }
+  .search-box { width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px; font-size: 16px; } 
+  .search-button { position: absolute; top: 50%; right: 5px; transform: translateY(-50%); background-color: #007BFF; color: white; border: none; padding: 8px 12px; border-radius: 5px; cursor: pointer;width: 370px;}
+
+
+  .logo{
+     
+     border-radius: 20px;
+  }
+  
+  
